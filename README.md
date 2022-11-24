@@ -2,7 +2,7 @@
 - 👀 I’m interested in electronic and programming, material science, industerial control, energy and power plants.
 - 🌱 I’m currently learning C++ and python for MCU and ARM.
 - 💞️ I’m looking to collaborate on industrial programming projects.
-- 📫 You can reach me on my Email. 
+- 📫 You can reach me by Email. 
 
 <!---
 H-Gholizadeh-K/H-Gholizadeh-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
